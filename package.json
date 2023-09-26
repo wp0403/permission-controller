@@ -1,0 +1,16 @@
+{
+  "name": "permission-controller",
+  "version": "1.0.1",
+  "description": "基于角色的权限控制器",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react-role",
+    "react",
+    "permission"
+  ],
+  "author": "shimmer",
+  "license": "ISC"
+}
