@@ -1,3 +1,5 @@
+[![npm](https://img.shields.io/npm/v/permission-controller.svg)](https://www.npmjs.com/package/permission-controller)
+
 # PermissionController
 
 这个类用于处理权限控制逻辑。

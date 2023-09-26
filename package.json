@@ -3,6 +3,10 @@
   "version": "1.0.1",
   "description": "基于角色的权限控制器",
   "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wp0403/permission-controller.git"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -12,5 +16,6 @@
     "permission"
   ],
   "author": "shimmer",
-  "license": "ISC"
+  "license": "ISC",
+  "homepage": "https://github.com/wp0403/permission-controller#readme"
 }
