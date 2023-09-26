@@ -1,6 +1,6 @@
 {
   "name": "permission-controller",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "基于角色的权限控制器",
   "main": "index.js",
   "repository": {
